@@ -14,6 +14,7 @@ Activity.destroy_all
 #   activity data in the database.  Afterwards, display a
 #   single salesperson's activity data:
 
+
 # 1. insert 3 rows in the activities table with relationships to
 # a single salesperson and 2 different contacts
 

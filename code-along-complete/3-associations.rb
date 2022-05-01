@@ -23,9 +23,9 @@ contact["company_id"] = apple["id"]
 contact.save
 
 contact = Contact.new
-contact["first_name"] = "Craig"
-contact["last_name"] = "Federighi"
-contact["email"] = "craig@apple.com"
+contact["first_name"] = "Josh"
+contact["last_name"] = "Kariya"
+contact["email"] = "Josh@apple.com"
 contact["company_id"] = apple["id"]
 contact.save
 
